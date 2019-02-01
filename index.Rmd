@@ -13,21 +13,21 @@ output:
 
 ## 
 
-Associative Director: [Hans IJzerman](http://www.hansijzerman.org/)<br>
-Assistant Directors: [Erin Buchanan](https://www.aggieerin.com/), [Sau-Chin](http://scchen.com/)<br>
+Associate Director: [Hans IJzerman](http://www.hansijzerman.org/)<br>
+Assistant Directors: [Sau-Chin](http://scchen.com/), [Erin Buchanan](https://www.aggieerin.com/)<br>
 Many enthusiastic Accelerators ...
 
 # Guiding Principles of PSA training
 
 ## Who provide training?
 
-- Any PSA member will share the approved training materials. 
-    - To submit your materials, just fill in [this form](https://docs.google.com/forms/d/1zkzqmedS_MWvGufwdoIUoOKvGRxf4-psCPJVFA35TH4/viewform?edit_requested=true).
-- Training materials would be text or multimedia.
+- Any PSA member can share the approved training materials. 
+    - If you want to submit your materials, just fill in [this form](https://docs.google.com/forms/d/1zkzqmedS_MWvGufwdoIUoOKvGRxf4-psCPJVFA35TH4/viewform?edit_requested=true).
+- Training materials can be text or any type of multimedia.
 
 ## Training modules
 
-- **PSA sepcific**: Overview of PSA network and projects. how to propose a PSA project; how to manage multi-lab data collection; how to organize PSA relative activities.
+- **PSA specific**: Overview of PSA network and projects. how to propose a PSA project; how to manage multi-lab data collection; how to organize PSA relative activities.
 
 - **Methodological**: Research method/toolkits. how to use survey software; how to use research software.
 
@@ -37,10 +37,10 @@ Many enthusiastic Accelerators ...
 
 ## Distribution of approved training materials
 
-- Three approvement types: (1) for general purpose; (2) for PSA-specific; (3) for PSA-requested.
+- Three types of projects: (1) General purpose; (2)  PSA-specific; (3) PSA-requested.
 - **We are going to assign four managers to each module.**
 - **Translation issue**: Provided materials are not in (1) the committee's spoken languages and (2) committee's living area.
-- **Distribution issue**: How to motivate the scientists in non-English area recognize/realize/appreciate the Open Science practices?
+- **Distribution issue**: How to motivate scientists who are non-native English speakers to recognize/realize/appreciate Open Science practices?
 
 ## COS/PSA share the goals
 
@@ -55,11 +55,11 @@ Many enthusiastic Accelerators ...
 
 How to manage the systematic translations of training modules across languages/countries?<br>
 <br>
-How to forster the Open Science Communities out of non-English world?
+How to foster the Open Science Communities in countries that are non-native English speakers?
 
 ## Team members
 
-**Ancher members**: Stay in one mission till the end. Keep the note of any suggestion. Give the hints for the swap members. One mission has 1 ~ 2 ancher member(s).
+**Anchor members**: Stay in one mission till the end. Keep the note of any suggestion. Give the hints for the swap members. One mission has 1 ~ 2 anchor member(s).
 
 **Swap members**: Provide individual suggestions to the present mission. Switch to the other mission between Hacks. Rest of us are swap members.
 
