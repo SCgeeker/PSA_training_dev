@@ -59,7 +59,7 @@ How to foster the Open Science Communities in countries that are non-native Engl
 
 ## Team members
 
-**Anchor members**: Stay in one mission till the end. Keep the note of any suggestion. Give the hints for the swap members. One mission has 1 ~ 2 anchor member(s).
+**Anchor members**: Stay in one mission till the end. Keep the [note](https://docs.google.com/document/d/1_RMbKn25HHMnZlvST897xZZXpiHNLQGdgdM3FrjXRkw/edit) of any suggestion. Give the hints for the swap members. One mission has 1 ~ 2 anchor member(s).
 
 **Swap members**: Provide individual suggestions to the present mission. Switch to the other mission between Hacks. Rest of us are swap members.
 
